@@ -1,0 +1,13 @@
+{
+    "name": "Donations",
+    "alias": "donations",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Donations\\Providers\\DonationsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

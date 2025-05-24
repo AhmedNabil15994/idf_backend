@@ -1,0 +1,13 @@
+{
+    "name": "Baskets",
+    "alias": "baskets",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Baskets\\Providers\\BasketsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

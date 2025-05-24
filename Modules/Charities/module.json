@@ -1,0 +1,13 @@
+{
+    "name": "Charities",
+    "alias": "charities",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Charities\\Providers\\CharitiesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

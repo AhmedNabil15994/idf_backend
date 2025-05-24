@@ -1,0 +1,106 @@
+<?php
+
+return [
+    'messages' => [
+        'created' => 'Created Successfully',
+        'delete' => 'Do you need to delete the recored ?',
+        'delete_all' => 'Do you need to delete this selected recored ?',
+        'deleted' => 'Deleted Successfully',
+        'failed' => 'Something error! , try again',
+        'updated' => 'Updated Successfully',
+        'sorted' => 'Sorted Successfully',
+    ],
+    'home' => [
+        '_header' => [
+            'my_account' => 'My Account',
+            'home' => 'Home',
+            'logout' => 'Logout',
+            'login' => 'Login',
+            'projects' => 'Projects',
+            'donate_resource' => 'Donate Resource',
+            'families' => 'Families',
+            'volunteers' => 'Volunteers',
+            'partners' => 'Partners',
+            'about_us' => 'About Us',
+            'contact_us' => 'Contact Us',
+            'terms' => 'Terms and Conditions',
+            'Calamity payment' => 'Calamity payment (a quarter of a daily dinar)'
+        ],
+        '_footer' => [
+            'email' => 'Email',
+            'help' => 'Help',
+            'subscribe' => 'Subscribe',
+            'donor' => 'Donor',
+            'families' => 'Families',
+            'food_baskets' => 'Food Baskets',
+            'follow_us_via' => 'Follow us via',
+            'site_map' => 'Site Map',
+            'copyright_all_rights_reserved' => 'Design and Developed CO Tocaan',
+            'important_links' => 'Important Links',
+            'privacy_policy' => 'Privacy & Policy',
+            'project_charter' => 'Project Charter',
+            'subscribe_to_receive_all_new' => 'Subscribe to receive all new',
+        ],
+    ],
+    'contact_us' => [
+        'alerts' => [
+            'send_message' => 'Message Sent Successfully',
+        ],
+        'form' => [
+            'btn' => [
+                'send' => 'Send',
+            ],
+            'email' => 'Email',
+            'message' => 'Message',
+            'mobile' => 'Mobile',
+            'username' => 'Name',
+        ],
+        'info' => [
+            'email' => 'Email address',
+            'mobile' => 'Mobile',
+            'title' => 'Information',
+            'our_site' => 'Our Site',
+            'technical_support' => 'Technical Support',
+            'call_center_number' => 'Call Center Number',
+            'recruitment_email' => 'Recruitment Email',
+        ],
+        'mail' => [
+            'header' => 'We received new contact us mail',
+            'subject' => 'Contact Us Mail',
+        ],
+        'title' => 'Contact Us',
+        'title_2' => 'Send message for us',
+        'header_title' => 'Contact Us',
+        'send_message' => 'Send Message',
+        'name' => 'Name',
+        'contact_send_successfully' => 'Contact Send Successfully',
+        'email' => ' Email',
+        'phone' => 'Mobile',
+        'message' => 'Message',
+        'send' => 'Send',
+        'call_us' => 'Call Us',
+        'technical_support' => 'Technical Support',
+        'our_address' => 'Our Address',
+        'validations' => [
+            'email' => [
+                'email' => 'Please enter correct email',
+                'required' => 'Please enter the email address',
+            ],
+            'message' => [
+                'min' => 'Message must be more than 10 characters',
+                'required' => 'Please fill the message of contact us',
+                'string' => 'please enter only characters and numbers in message',
+            ],
+            'mobile' => [
+                'digits_between' => 'You must enter mobile number with 8 digits',
+                'numeric' => 'Please enter correct mobile number',
+                'required' => 'Please enter mobile number',
+            ],
+            'username' => [
+                'min' => 'Name must be more than 3 character',
+                'required' => 'Please enter name',
+                'string' => 'Please enter name with only characters and numbers',
+            ],
+        ],
+    ],
+];

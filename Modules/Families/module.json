@@ -1,0 +1,13 @@
+{
+    "name": "Families",
+    "alias": "families",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Families\\Providers\\FamiliesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

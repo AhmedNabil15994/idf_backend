@@ -1,0 +1,21 @@
+{
+    "Core": true,
+    "User": true,
+    "Authentication": true,
+    "Apps": true,
+    "Setting": true,
+    "Authorization": true,
+    "Page": true,
+    "Category": true,
+    "DeviceToken": true,
+    "Families": true,
+    "Baskets": true,
+    "Areas": true,
+    "Catalog": true,
+    "Charities": true,
+    "Donations": true,
+    "Projects": true,
+    "Slider": true,
+    "Volunteers": true,
+    "Order": true
+}
