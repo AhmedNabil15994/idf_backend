@@ -1,2 +1,2 @@
-# nematy_backend
 # idf_backend
+IDF Single Store Ecommerce Project
